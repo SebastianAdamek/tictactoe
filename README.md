@@ -12,38 +12,33 @@
 * [Contact](#contact)
 
 ## General info
-Add more general information about project. What the purpose of the project is? Motivation?
+This game it's funny stuff. From hard work it'll be good.
 
 ## Screenshots
 ![Example screenshot](./tictactoe.jpg)
 
 ## Technologies
-* Tech 1 - version 1.0
-* Tech 2 - version 2.0
-* Tech 3 - version 3.0
+* Python - v.3.6
+
 
 ## Setup
-Describe how to install / setup your local environement / add link to demo version.
+* Install Python interpreter
+* Download tictactoe.py
+* Enter `python3 tictactoe.py`
 
-## Code Examples
-Show examples of usage:
-`put-your-code-here`
+## HUI - How Use It
+Command:
+![Slot of the Board](./tictactoe.png)
+* we use strings from slot to put X or O in it.
+* 'clear' - it's clear all slot 
+* 'exit' - exit from game
 
-## Features
-List of features ready and TODOs for future development
-* Awesome feature 1
-* Awesome feature 2
-* Awesome feature 3
-
-To-do list:
-* Wow improvement to be done 1
-* Wow improvement to be done 2
 
 ## Status
-Project is: _in progress_, _finished_, _no longer continue_ and why?
+Project is: _in progress_.
 
 ## Inspiration
-Add here credits. Project inspired by..., based on...
+Project inspired by Automated bornign Stuff....
 
 ## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
+Created by [@sebadamek](sebadamek@wp.pl) - feel free to contact me!
